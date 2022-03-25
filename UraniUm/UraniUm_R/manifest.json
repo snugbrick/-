@@ -1,0 +1,18 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "By u",
+        "name": "?",
+        "uuid": "bd52abe1-0637-4d48-a95c-e638429a493e",
+        "version": [0, 0, 1],
+        "min_engine_version": [1, 2, 6]
+    },
+    "modules": [
+        {
+            "description": "By u",
+            "type": "resources",
+            "uuid": "e834f384-bb48-47bc-83f1-4860410abb65",
+            "version": [0, 0, 1]
+        }
+    ]
+}
